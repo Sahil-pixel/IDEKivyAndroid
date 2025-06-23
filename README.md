@@ -58,3 +58,9 @@ This makes it ideal for Python education, quick script testing, and multiprocess
 # To Build  
 - buildozer android debug
 
+## 📷 Screenshot
+
+Here's what the app looks like on Android:
+
+![IDEKivy screenshot](assets/screenshot.png)
+
